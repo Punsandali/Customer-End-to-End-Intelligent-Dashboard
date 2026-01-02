@@ -4,6 +4,7 @@ An end-to-end Machine Learning–powered Customer Intelligence system that trans
 
 Built as a real-world analytics product, this platform helps businesses understand customer behavior, predict outcomes, and make data-driven decisions.
 
+
 🚀 Key Features
 🔮 Purchase Prediction
 
@@ -53,6 +54,7 @@ Flags products with a spike in negative reviews
 
 Supports faster product quality interventions
 
+
 🏗️ System Architecture
 CSV Data Sources
    ↓
@@ -92,6 +94,7 @@ KMeans Clustering
 
 Text Sentiment Analysis
 
+
 📊 Dashboard Highlights
 
 KPI Overview for executives
@@ -101,6 +104,7 @@ Interactive ML-powered visualizations
 Business-friendly insights (not just raw data)
 
 Real-time API-driven analytics
+
 
 📁 Project Structure
 ├── backend/
@@ -152,5 +156,6 @@ Ideal for Data Science, ML Engineer, and Analytics internships.
 👤 Author
 
 Punsandali
+
 Data Science Undergraduate
 Passionate about ML, Analytics, and Building Real-World Systems
