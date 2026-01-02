@@ -1,0 +1,501 @@
+ProductID,Category,Brand,Price,Season,PopularityScore
+1,Pants,Brand5,26.21,Winter,0.51
+2,Accessories,Brand12,36.89,Spring,0.11
+3,Pants,Brand27,25.64,Fall,0.65
+4,Accessories,Brand21,20.3,Fall,0.61
+5,Shoes,Brand4,23.45,Spring,0.52
+6,Accessories,Brand13,21.5,Spring,0.93
+7,Accessories,Brand22,11.44,Fall,0.52
+8,Dresses,Brand1,10.79,Spring,0.99
+9,Shirts,Brand18,19.31,Summer,0.51
+10,Accessories,Brand4,20.9,Spring,0.12
+11,Shirts,Brand4,20.2,Spring,0.47
+12,Shirts,Brand8,28.16,Spring,0.18
+13,Womens Sneakers,Brand25,18.03,Spring,0.6
+14,Womens Sneakers,Brand28,26.62,Fall,0.69
+15,Mens Jackets,Brand20,18.68,Winter,0.47
+16,Shoes,Brand6,49.98,Fall,0.1
+17,Pants,Brand4,20.91,Fall,0.47
+18,Womens Sneakers,Brand4,64.74,Winter,0.08
+19,Accessories,Brand28,23.95,Fall,0.68
+20,Shirts,Brand11,18.05,Summer,0.79
+21,Pants,Brand28,12.81,Winter,0.96
+22,Mens Jackets,Brand9,9.76,Summer,0.15
+23,Womens Sneakers,Brand14,12.23,Fall,0.53
+24,Dresses,Brand4,12.94,Fall,0.57
+25,Shoes,Brand13,24.47,Winter,0.92
+26,Pants,Brand6,15.44,Fall,0.63
+27,Mens Jackets,Brand30,22.05,Spring,0.15
+28,Accessories,Brand13,38.13,Summer,0.44
+29,Pants,Brand25,19.22,Summer,0.65
+30,Shirts,Brand3,56.8,Spring,0.7
+31,Accessories,Brand23,11.16,Winter,0.86
+32,Accessories,Brand7,18.63,Winter,0.18
+33,Pants,Brand1,15.34,Spring,0.95
+34,Dresses,Brand11,32.08,Spring,0.06
+35,Dresses,Brand2,6.55,Summer,0.98
+36,Pants,Brand5,9.76,Spring,0.86
+37,Pants,Brand24,19.04,Spring,0.66
+38,Pants,Brand22,43.63,Spring,0.73
+39,Shoes,Brand30,22.49,Fall,0.07
+40,Shoes,Brand14,10.22,Spring,0.04
+41,Shirts,Brand29,11.04,Fall,0.1
+42,Womens Sneakers,Brand13,46.36,Summer,0.09
+43,Accessories,Brand16,14.72,Summer,0.55
+44,Pants,Brand23,12.53,Winter,0.22
+45,Shoes,Brand15,42.04,Summer,0.86
+46,Womens Sneakers,Brand3,33.3,Winter,0.45
+47,Shirts,Brand6,37.98,Fall,0.7
+48,Accessories,Brand9,12.49,Spring,0.65
+49,Womens Sneakers,Brand3,9.37,Summer,0.32
+50,Accessories,Brand30,21.47,Spring,0.24
+51,Dresses,Brand13,23.75,Winter,0.34
+52,Pants,Brand29,24.1,Fall,0.8
+53,Dresses,Brand13,42.06,Summer,0.59
+54,Mens Jackets,Brand22,8.44,Spring,0.25
+55,Shirts,Brand7,30.87,Winter,0.82
+56,Pants,Brand5,11.61,Spring,0.05
+57,Womens Sneakers,Brand26,30.81,Summer,0.7
+58,Accessories,Brand29,15.84,Spring,0.44
+59,Shoes,Brand8,13.37,Fall,0.73
+60,Mens Jackets,Brand8,14.81,Summer,0.93
+61,Shirts,Brand22,9.75,Winter,0.75
+62,Shirts,Brand7,20.5,Summer,0.44
+63,Shirts,Brand19,13.65,Winter,0.15
+64,Womens Sneakers,Brand29,29.76,Winter,0.81
+65,Pants,Brand7,27.66,Summer,0.46
+66,Dresses,Brand23,46.72,Winter,0.08
+67,Mens Jackets,Brand4,24.12,Summer,0.72
+68,Womens Sneakers,Brand10,26.06,Fall,0.29
+69,Accessories,Brand30,40.45,Fall,0.05
+70,Womens Sneakers,Brand13,14.68,Spring,0.9
+71,Accessories,Brand4,9.54,Fall,0.48
+72,Accessories,Brand30,22.2,Winter,0.28
+73,Shirts,Brand19,9.86,Spring,0.72
+74,Womens Sneakers,Brand10,68.51,Spring,0.89
+75,Dresses,Brand7,41.59,Summer,0.0
+76,Accessories,Brand5,59.26,Spring,0.69
+77,Shoes,Brand3,20.72,Summer,0.77
+78,Shirts,Brand22,26.45,Spring,0.21
+79,Dresses,Brand28,15.96,Fall,0.49
+80,Womens Sneakers,Brand22,31.23,Summer,0.09
+81,Dresses,Brand22,10.94,Winter,0.75
+82,Womens Sneakers,Brand2,5.63,Spring,0.85
+83,Accessories,Brand29,13.53,Fall,0.11
+84,Mens Jackets,Brand11,9.7,Fall,0.82
+85,Mens Jackets,Brand10,42.05,Summer,0.77
+86,Pants,Brand28,49.79,Summer,0.35
+87,Pants,Brand23,9.96,Summer,0.69
+88,Accessories,Brand13,38.32,Winter,0.0
+89,Dresses,Brand7,32.32,Winter,0.93
+90,Womens Sneakers,Brand10,9.16,Winter,0.55
+91,Mens Jackets,Brand28,16.52,Spring,0.62
+92,Womens Sneakers,Brand4,15.03,Winter,0.66
+93,Accessories,Brand27,29.2,Summer,0.56
+94,Dresses,Brand22,10.87,Fall,0.86
+95,Shoes,Brand20,19.12,Fall,0.61
+96,Womens Sneakers,Brand16,14.25,Summer,0.91
+97,Dresses,Brand20,25.45,Winter,0.58
+98,Shoes,Brand6,18.02,Winter,0.17
+99,Mens Jackets,Brand9,15.37,Summer,0.91
+100,Womens Sneakers,Brand28,18.05,Fall,0.68
+101,Shirts,Brand13,55.59,Spring,0.7
+102,Mens Jackets,Brand7,16.31,Fall,0.99
+103,Dresses,Brand18,11.94,Winter,0.08
+104,Accessories,Brand14,26.89,Fall,0.43
+105,Shirts,Brand22,18.69,Winter,0.24
+106,Pants,Brand30,9.9,Fall,0.63
+107,Womens Sneakers,Brand5,61.3,Summer,0.81
+108,Pants,Brand22,16.84,Winter,0.97
+109,Mens Jackets,Brand13,16.63,Spring,0.45
+110,Womens Sneakers,Brand24,21.76,Spring,0.79
+111,Womens Sneakers,Brand8,47.71,Summer,0.92
+112,Shirts,Brand15,8.67,Fall,0.68
+113,Shirts,Brand19,23.06,Summer,0.24
+114,Shirts,Brand9,57.03,Summer,0.61
+115,Shirts,Brand6,21.42,Spring,0.97
+116,Accessories,Brand23,10.83,Spring,0.99
+117,Dresses,Brand25,14.74,Winter,0.64
+118,Shirts,Brand14,22.27,Winter,0.89
+119,Mens Jackets,Brand29,39.07,Winter,0.2
+120,Womens Sneakers,Brand23,16.95,Summer,0.25
+121,Pants,Brand10,30.37,Summer,0.95
+122,Shirts,Brand9,9.8,Winter,0.14
+123,Mens Jackets,Brand17,9.76,Spring,0.19
+124,Accessories,Brand13,15.78,Spring,0.42
+125,Mens Jackets,Brand17,41.22,Fall,0.59
+126,Pants,Brand19,20.79,Winter,0.6
+127,Pants,Brand13,23.22,Summer,0.29
+128,Mens Jackets,Brand9,23.08,Fall,0.92
+129,Accessories,Brand1,34.97,Fall,0.92
+130,Pants,Brand1,14.8,Fall,0.39
+131,Accessories,Brand5,28.34,Winter,0.43
+132,Womens Sneakers,Brand8,13.26,Winter,0.7
+133,Shirts,Brand18,54.14,Winter,0.66
+134,Pants,Brand4,13.46,Spring,0.38
+135,Mens Jackets,Brand22,12.92,Fall,0.41
+136,Dresses,Brand1,26.44,Spring,0.35
+137,Dresses,Brand15,20.9,Winter,0.24
+138,Shoes,Brand20,23.65,Spring,0.46
+139,Womens Sneakers,Brand4,22.5,Spring,0.69
+140,Dresses,Brand25,11.64,Summer,0.74
+141,Womens Sneakers,Brand9,45.0,Winter,0.78
+142,Shirts,Brand22,31.4,Fall,0.37
+143,Shoes,Brand24,39.63,Winter,0.76
+144,Womens Sneakers,Brand28,15.42,Spring,0.01
+145,Accessories,Brand26,24.74,Winter,0.48
+146,Accessories,Brand20,22.17,Winter,0.79
+147,Shoes,Brand10,35.3,Summer,0.63
+148,Accessories,Brand24,35.88,Summer,0.47
+149,Pants,Brand15,22.12,Winter,0.64
+150,Accessories,Brand3,9.4,Summer,0.91
+151,Accessories,Brand2,48.9,Spring,0.57
+152,Accessories,Brand22,26.52,Spring,0.8
+153,Accessories,Brand5,14.82,Spring,0.98
+154,Pants,Brand24,24.61,Summer,0.71
+155,Accessories,Brand1,9.44,Winter,0.57
+156,Accessories,Brand11,34.04,Spring,0.04
+157,Shirts,Brand12,9.63,Fall,0.37
+158,Pants,Brand26,17.99,Spring,0.57
+159,Accessories,Brand3,22.7,Winter,0.8
+160,Womens Sneakers,Brand23,33.76,Spring,0.44
+161,Shoes,Brand29,21.18,Fall,0.96
+162,Shirts,Brand16,27.59,Spring,0.27
+163,Pants,Brand26,19.8,Spring,0.74
+164,Dresses,Brand14,19.76,Winter,0.42
+165,Mens Jackets,Brand12,20.96,Spring,0.49
+166,Pants,Brand20,18.27,Spring,0.8
+167,Shoes,Brand26,8.64,Summer,0.3
+168,Shirts,Brand16,13.68,Winter,0.1
+169,Accessories,Brand21,22.7,Winter,0.52
+170,Shirts,Brand8,17.73,Winter,0.53
+171,Mens Jackets,Brand17,18.58,Winter,0.8
+172,Mens Jackets,Brand17,17.09,Spring,0.97
+173,Pants,Brand28,13.04,Fall,0.06
+174,Accessories,Brand7,15.7,Fall,0.59
+175,Accessories,Brand15,17.23,Summer,0.68
+176,Womens Sneakers,Brand29,20.14,Spring,0.99
+177,Mens Jackets,Brand28,24.45,Winter,0.94
+178,Accessories,Brand9,18.35,Winter,0.71
+179,Mens Jackets,Brand4,12.0,Fall,0.52
+180,Womens Sneakers,Brand8,9.98,Summer,0.16
+181,Dresses,Brand10,73.61,Spring,0.38
+182,Mens Jackets,Brand15,11.42,Summer,0.59
+183,Womens Sneakers,Brand23,15.5,Spring,0.73
+184,Womens Sneakers,Brand30,26.01,Summer,0.64
+185,Shoes,Brand18,24.06,Summer,0.71
+186,Womens Sneakers,Brand14,26.06,Winter,0.43
+187,Shirts,Brand5,16.1,Fall,0.73
+188,Pants,Brand9,22.63,Winter,0.14
+189,Accessories,Brand13,20.71,Fall,0.16
+190,Mens Jackets,Brand29,17.18,Summer,0.16
+191,Pants,Brand25,22.71,Spring,0.89
+192,Shirts,Brand19,34.04,Winter,0.08
+193,Mens Jackets,Brand11,19.86,Spring,0.8
+194,Pants,Brand12,19.93,Winter,0.23
+195,Shirts,Brand3,34.26,Winter,0.47
+196,Accessories,Brand2,32.48,Winter,0.92
+197,Womens Sneakers,Brand23,44.34,Spring,0.59
+198,Pants,Brand22,8.35,Winter,0.21
+199,Pants,Brand15,31.58,Winter,0.28
+200,Mens Jackets,Brand5,27.13,Winter,0.92
+201,Womens Sneakers,Brand7,12.9,Spring,0.43
+202,Shoes,Brand4,22.78,Winter,0.59
+203,Accessories,Brand5,33.97,Spring,0.46
+204,Mens Jackets,Brand25,13.27,Fall,0.38
+205,Dresses,Brand16,25.06,Winter,0.22
+206,Dresses,Brand15,31.05,Summer,0.69
+207,Dresses,Brand27,11.76,Fall,0.72
+208,Accessories,Brand16,18.71,Spring,0.27
+209,Dresses,Brand25,23.35,Summer,0.79
+210,Pants,Brand4,13.49,Spring,0.85
+211,Shoes,Brand6,12.94,Spring,0.92
+212,Mens Jackets,Brand18,18.77,Winter,0.16
+213,Shoes,Brand3,29.99,Summer,0.3
+214,Shoes,Brand25,27.71,Spring,0.86
+215,Shoes,Brand22,13.06,Fall,0.2
+216,Pants,Brand24,27.83,Winter,0.0
+217,Dresses,Brand27,13.22,Fall,0.87
+218,Shoes,Brand5,8.98,Fall,0.33
+219,Shoes,Brand2,16.72,Winter,0.41
+220,Mens Jackets,Brand23,35.22,Spring,0.45
+221,Pants,Brand16,27.88,Fall,0.85
+222,Accessories,Brand6,20.07,Spring,0.34
+223,Womens Sneakers,Brand27,16.31,Spring,0.89
+224,Pants,Brand15,16.53,Winter,0.62
+225,Shirts,Brand18,21.21,Fall,0.53
+226,Dresses,Brand6,11.77,Fall,0.33
+227,Shirts,Brand13,16.88,Winter,0.24
+228,Womens Sneakers,Brand24,18.03,Spring,0.62
+229,Accessories,Brand13,10.22,Spring,0.45
+230,Pants,Brand1,13.21,Winter,0.91
+231,Accessories,Brand16,24.66,Spring,0.49
+232,Womens Sneakers,Brand4,20.18,Spring,0.51
+233,Shirts,Brand17,17.21,Fall,0.42
+234,Pants,Brand18,12.73,Spring,0.79
+235,Dresses,Brand16,44.19,Spring,0.42
+236,Mens Jackets,Brand1,13.21,Spring,0.27
+237,Shoes,Brand6,22.78,Spring,0.86
+238,Accessories,Brand11,15.74,Winter,0.6
+239,Womens Sneakers,Brand6,20.45,Winter,0.59
+240,Pants,Brand17,25.25,Winter,0.61
+241,Shirts,Brand4,10.12,Spring,0.72
+242,Dresses,Brand14,20.02,Winter,0.31
+243,Shirts,Brand30,36.43,Summer,0.03
+244,Dresses,Brand14,48.46,Summer,0.81
+245,Pants,Brand20,18.82,Summer,0.13
+246,Mens Jackets,Brand8,20.51,Fall,0.72
+247,Mens Jackets,Brand22,60.68,Spring,0.08
+248,Shoes,Brand2,35.43,Fall,0.38
+249,Womens Sneakers,Brand5,14.75,Winter,0.06
+250,Womens Sneakers,Brand4,14.74,Spring,0.52
+251,Dresses,Brand10,32.4,Summer,0.65
+252,Dresses,Brand20,12.12,Spring,0.17
+253,Dresses,Brand28,34.6,Fall,0.37
+254,Dresses,Brand24,23.74,Winter,0.93
+255,Shoes,Brand21,26.02,Winter,0.44
+256,Pants,Brand3,17.67,Fall,0.8
+257,Pants,Brand16,14.66,Spring,0.93
+258,Mens Jackets,Brand10,41.72,Fall,0.97
+259,Womens Sneakers,Brand28,17.75,Winter,0.9
+260,Shoes,Brand15,16.35,Summer,0.32
+261,Womens Sneakers,Brand4,19.3,Winter,0.96
+262,Accessories,Brand1,22.12,Winter,0.81
+263,Womens Sneakers,Brand22,12.0,Spring,0.84
+264,Womens Sneakers,Brand27,15.14,Summer,0.02
+265,Shirts,Brand29,14.75,Winter,0.95
+266,Shirts,Brand15,30.65,Summer,0.78
+267,Shoes,Brand10,12.9,Fall,0.77
+268,Accessories,Brand20,8.35,Spring,0.08
+269,Dresses,Brand22,7.51,Summer,0.23
+270,Accessories,Brand18,9.63,Summer,0.96
+271,Accessories,Brand16,39.68,Spring,0.5
+272,Mens Jackets,Brand21,20.25,Fall,0.4
+273,Pants,Brand27,25.81,Summer,0.84
+274,Womens Sneakers,Brand9,26.27,Spring,0.09
+275,Mens Jackets,Brand24,20.66,Winter,0.42
+276,Shoes,Brand19,19.35,Spring,0.38
+277,Pants,Brand17,33.86,Winter,0.35
+278,Shoes,Brand10,21.61,Summer,0.31
+279,Womens Sneakers,Brand19,40.43,Summer,0.21
+280,Shoes,Brand8,27.4,Summer,0.17
+281,Accessories,Brand27,14.75,Fall,0.64
+282,Womens Sneakers,Brand19,15.67,Fall,0.92
+283,Dresses,Brand5,13.96,Winter,0.51
+284,Dresses,Brand2,36.92,Spring,0.3
+285,Accessories,Brand15,16.4,Winter,0.16
+286,Shoes,Brand17,13.47,Spring,0.83
+287,Shirts,Brand27,23.57,Summer,0.97
+288,Dresses,Brand10,19.13,Spring,0.35
+289,Accessories,Brand30,23.27,Fall,0.29
+290,Mens Jackets,Brand21,51.67,Spring,0.6
+291,Shirts,Brand21,31.71,Spring,0.78
+292,Dresses,Brand22,20.36,Summer,0.46
+293,Accessories,Brand2,9.93,Summer,0.63
+294,Accessories,Brand9,15.64,Fall,0.72
+295,Mens Jackets,Brand2,28.66,Spring,0.96
+296,Mens Jackets,Brand18,11.18,Spring,0.17
+297,Shirts,Brand12,58.59,Spring,1.0
+298,Pants,Brand15,20.23,Summer,0.39
+299,Dresses,Brand21,20.58,Fall,0.72
+300,Accessories,Brand25,14.39,Spring,0.57
+301,Shirts,Brand20,25.75,Spring,0.49
+302,Shoes,Brand6,11.26,Spring,0.7
+303,Shirts,Brand18,59.29,Spring,0.4
+304,Shoes,Brand30,38.81,Fall,0.13
+305,Mens Jackets,Brand13,32.86,Fall,0.49
+306,Accessories,Brand4,10.02,Fall,0.52
+307,Womens Sneakers,Brand12,22.26,Summer,0.2
+308,Pants,Brand9,36.76,Spring,0.94
+309,Pants,Brand2,27.02,Spring,0.23
+310,Mens Jackets,Brand16,12.17,Spring,0.41
+311,Shoes,Brand1,14.51,Spring,0.15
+312,Accessories,Brand4,16.02,Winter,0.54
+313,Shirts,Brand15,14.85,Fall,0.31
+314,Pants,Brand20,43.14,Winter,0.49
+315,Shirts,Brand1,7.69,Winter,0.22
+316,Dresses,Brand20,27.88,Summer,0.05
+317,Womens Sneakers,Brand15,10.53,Summer,0.78
+318,Mens Jackets,Brand3,12.42,Spring,0.64
+319,Shoes,Brand13,7.35,Winter,0.34
+320,Pants,Brand18,15.26,Winter,0.05
+321,Dresses,Brand13,42.75,Fall,0.87
+322,Dresses,Brand10,22.93,Winter,0.17
+323,Womens Sneakers,Brand20,11.03,Summer,0.93
+324,Mens Jackets,Brand24,33.4,Winter,0.48
+325,Mens Jackets,Brand7,37.18,Summer,0.34
+326,Shirts,Brand25,21.16,Spring,0.74
+327,Mens Jackets,Brand8,55.56,Summer,0.88
+328,Dresses,Brand1,30.29,Spring,0.37
+329,Shirts,Brand28,28.26,Fall,0.41
+330,Mens Jackets,Brand18,13.44,Spring,0.43
+331,Shoes,Brand12,27.49,Winter,0.92
+332,Shoes,Brand18,22.39,Summer,0.69
+333,Womens Sneakers,Brand28,26.05,Spring,0.25
+334,Dresses,Brand24,14.26,Spring,0.18
+335,Accessories,Brand12,21.41,Spring,0.23
+336,Womens Sneakers,Brand20,13.35,Spring,0.26
+337,Womens Sneakers,Brand9,6.86,Spring,0.23
+338,Mens Jackets,Brand2,33.09,Spring,0.66
+339,Shirts,Brand14,9.48,Summer,0.12
+340,Shirts,Brand4,21.19,Winter,0.39
+341,Shoes,Brand29,23.72,Winter,0.63
+342,Dresses,Brand29,23.65,Spring,0.29
+343,Mens Jackets,Brand15,17.43,Summer,0.07
+344,Shirts,Brand17,23.0,Spring,0.08
+345,Shoes,Brand19,25.42,Fall,0.13
+346,Pants,Brand6,29.01,Winter,0.84
+347,Accessories,Brand9,47.79,Spring,0.66
+348,Pants,Brand27,22.58,Summer,0.06
+349,Mens Jackets,Brand17,20.74,Winter,0.39
+350,Mens Jackets,Brand15,12.76,Summer,0.28
+351,Shirts,Brand5,24.98,Fall,0.58
+352,Womens Sneakers,Brand28,28.04,Spring,0.52
+353,Mens Jackets,Brand18,18.24,Fall,0.48
+354,Womens Sneakers,Brand23,26.37,Winter,0.31
+355,Dresses,Brand4,17.35,Spring,0.14
+356,Shoes,Brand21,28.09,Winter,0.74
+357,Dresses,Brand24,31.7,Spring,0.88
+358,Shirts,Brand2,31.48,Summer,0.94
+359,Dresses,Brand19,21.3,Winter,0.06
+360,Pants,Brand27,11.94,Fall,0.74
+361,Pants,Brand5,14.79,Fall,0.73
+362,Pants,Brand26,27.05,Summer,0.95
+363,Shirts,Brand4,68.33,Summer,0.25
+364,Shirts,Brand5,16.94,Fall,0.74
+365,Pants,Brand19,25.23,Summer,0.05
+366,Womens Sneakers,Brand13,15.21,Spring,0.63
+367,Pants,Brand16,12.34,Fall,0.35
+368,Womens Sneakers,Brand12,14.32,Winter,0.77
+369,Dresses,Brand9,7.09,Fall,0.86
+370,Womens Sneakers,Brand24,39.52,Summer,0.36
+371,Mens Jackets,Brand16,6.59,Spring,0.53
+372,Accessories,Brand14,17.6,Winter,0.12
+373,Mens Jackets,Brand22,11.14,Fall,0.42
+374,Mens Jackets,Brand30,12.91,Fall,0.36
+375,Shirts,Brand1,39.98,Winter,0.18
+376,Accessories,Brand20,22.21,Spring,0.89
+377,Shirts,Brand23,12.4,Summer,0.15
+378,Womens Sneakers,Brand26,14.96,Summer,0.64
+379,Pants,Brand21,13.7,Summer,0.89
+380,Shoes,Brand4,19.65,Summer,0.91
+381,Shoes,Brand9,21.9,Winter,0.79
+382,Shoes,Brand24,51.82,Spring,0.18
+383,Womens Sneakers,Brand19,7.7,Spring,0.82
+384,Accessories,Brand14,19.74,Fall,0.28
+385,Dresses,Brand22,17.15,Fall,0.92
+386,Womens Sneakers,Brand12,32.24,Spring,0.71
+387,Mens Jackets,Brand30,23.98,Fall,0.79
+388,Accessories,Brand30,26.98,Spring,0.09
+389,Accessories,Brand28,23.87,Winter,0.58
+390,Womens Sneakers,Brand4,12.6,Winter,0.82
+391,Womens Sneakers,Brand7,36.8,Summer,0.86
+392,Shirts,Brand17,29.94,Spring,0.03
+393,Shirts,Brand1,31.75,Winter,0.94
+394,Mens Jackets,Brand14,37.79,Spring,0.04
+395,Accessories,Brand15,24.75,Fall,0.61
+396,Shoes,Brand12,42.12,Spring,0.69
+397,Dresses,Brand12,24.26,Summer,0.11
+398,Dresses,Brand6,18.0,Summer,0.05
+399,Accessories,Brand26,20.02,Winter,0.78
+400,Mens Jackets,Brand27,19.85,Fall,0.38
+401,Shoes,Brand29,15.49,Fall,0.11
+402,Shirts,Brand13,45.42,Spring,0.76
+403,Shirts,Brand16,23.29,Fall,0.85
+404,Shirts,Brand14,21.06,Summer,0.59
+405,Dresses,Brand7,24.39,Winter,0.16
+406,Dresses,Brand29,89.11,Winter,0.02
+407,Mens Jackets,Brand25,11.41,Winter,0.7
+408,Dresses,Brand16,13.16,Fall,0.55
+409,Womens Sneakers,Brand23,10.07,Fall,0.65
+410,Dresses,Brand9,17.88,Summer,0.81
+411,Shirts,Brand26,22.71,Spring,0.43
+412,Mens Jackets,Brand14,15.92,Spring,0.12
+413,Accessories,Brand25,15.33,Winter,0.94
+414,Accessories,Brand30,21.57,Winter,0.55
+415,Mens Jackets,Brand30,15.63,Fall,0.62
+416,Womens Sneakers,Brand24,23.46,Winter,0.93
+417,Accessories,Brand7,35.06,Summer,0.93
+418,Shirts,Brand12,28.18,Summer,0.57
+419,Accessories,Brand3,31.2,Winter,0.3
+420,Accessories,Brand27,34.57,Winter,1.0
+421,Shirts,Brand14,23.14,Winter,0.68
+422,Dresses,Brand19,18.55,Winter,0.41
+423,Womens Sneakers,Brand11,13.65,Winter,0.56
+424,Shoes,Brand5,16.52,Summer,0.42
+425,Shirts,Brand23,15.46,Spring,0.89
+426,Shirts,Brand13,28.96,Summer,0.48
+427,Pants,Brand28,23.89,Summer,0.82
+428,Mens Jackets,Brand10,28.46,Winter,0.84
+429,Womens Sneakers,Brand7,11.24,Spring,0.82
+430,Dresses,Brand17,41.09,Winter,0.72
+431,Pants,Brand16,16.22,Summer,0.85
+432,Shoes,Brand8,11.59,Spring,0.39
+433,Shirts,Brand17,16.13,Fall,0.11
+434,Shoes,Brand13,69.54,Winter,0.84
+435,Shoes,Brand30,16.55,Fall,0.5
+436,Shoes,Brand11,17.07,Fall,0.13
+437,Pants,Brand20,18.25,Fall,0.12
+438,Dresses,Brand18,18.65,Fall,0.16
+439,Pants,Brand5,13.59,Spring,0.75
+440,Pants,Brand6,21.58,Winter,0.71
+441,Pants,Brand20,34.39,Spring,0.2
+442,Shirts,Brand14,23.5,Winter,0.85
+443,Shirts,Brand12,11.52,Winter,0.28
+444,Mens Jackets,Brand29,16.91,Winter,0.79
+445,Accessories,Brand4,15.24,Spring,0.49
+446,Womens Sneakers,Brand7,20.62,Summer,0.73
+447,Mens Jackets,Brand11,39.06,Fall,0.38
+448,Dresses,Brand20,18.64,Summer,0.35
+449,Pants,Brand2,19.22,Summer,0.84
+450,Shirts,Brand4,48.85,Summer,0.04
+451,Pants,Brand7,31.13,Fall,0.97
+452,Shirts,Brand1,26.76,Summer,0.65
+453,Shoes,Brand15,53.47,Fall,0.43
+454,Womens Sneakers,Brand20,25.66,Fall,0.63
+455,Mens Jackets,Brand22,7.44,Fall,0.12
+456,Mens Jackets,Brand24,30.46,Winter,0.51
+457,Dresses,Brand8,9.06,Winter,0.99
+458,Shoes,Brand29,25.18,Summer,0.24
+459,Mens Jackets,Brand25,8.53,Winter,0.72
+460,Mens Jackets,Brand5,15.9,Fall,0.43
+461,Accessories,Brand14,16.75,Winter,0.65
+462,Womens Sneakers,Brand18,13.67,Fall,0.2
+463,Pants,Brand3,16.87,Spring,0.47
+464,Mens Jackets,Brand2,33.66,Winter,0.98
+465,Dresses,Brand25,14.06,Summer,0.2
+466,Pants,Brand22,26.38,Spring,0.64
+467,Shirts,Brand16,12.39,Spring,0.58
+468,Shoes,Brand14,18.27,Winter,0.57
+469,Shoes,Brand16,23.62,Winter,0.62
+470,Mens Jackets,Brand11,12.2,Summer,0.5
+471,Mens Jackets,Brand28,10.42,Spring,0.02
+472,Pants,Brand17,25.69,Fall,0.9
+473,Shirts,Brand3,35.22,Winter,0.83
+474,Accessories,Brand23,19.31,Spring,0.17
+475,Womens Sneakers,Brand23,15.98,Spring,0.41
+476,Accessories,Brand5,21.71,Fall,0.77
+477,Dresses,Brand3,20.65,Spring,0.98
+478,Pants,Brand29,22.68,Winter,0.95
+479,Mens Jackets,Brand15,5.67,Fall,0.9
+480,Accessories,Brand23,11.77,Winter,0.16
+481,Womens Sneakers,Brand5,13.16,Summer,0.91
+482,Dresses,Brand22,21.66,Spring,0.88
+483,Shoes,Brand3,22.04,Winter,0.38
+484,Accessories,Brand6,27.61,Winter,0.39
+485,Mens Jackets,Brand23,22.85,Summer,0.46
+486,Womens Sneakers,Brand14,10.48,Spring,0.66
+487,Mens Jackets,Brand24,41.41,Winter,0.26
+488,Mens Jackets,Brand2,37.94,Fall,0.02
+489,Dresses,Brand18,10.71,Winter,0.14
+490,Womens Sneakers,Brand30,23.72,Winter,0.44
+491,Shirts,Brand6,14.91,Winter,0.28
+492,Shoes,Brand24,21.53,Winter,0.76
+493,Mens Jackets,Brand5,34.01,Spring,0.11
+494,Womens Sneakers,Brand14,58.27,Winter,0.92
+495,Mens Jackets,Brand17,29.24,Summer,0.9
+496,Accessories,Brand11,23.28,Winter,0.91
+497,Accessories,Brand1,16.95,Fall,0.74
+498,Womens Sneakers,Brand10,22.0,Fall,0.11
+499,Shoes,Brand9,39.64,Winter,0.44
+500,Dresses,Brand20,19.64,Winter,0.13
